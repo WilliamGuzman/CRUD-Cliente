@@ -1,0 +1,11 @@
+{
+  "products": [
+    {
+      "nombre": "Coca Cola",
+      "cantidad": 80,
+      "precio": 40,
+      "descripcion": "Bebida",
+      "id": "c1d8268-bd4-a6d0-dfd4-35f16451fca"
+    }
+  ]
+}
